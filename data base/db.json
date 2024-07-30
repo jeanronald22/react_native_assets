@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Faire les courses",
+      "description": "Acheter des fruits, légumes, et du pain.",
+      "status": "En cours"
+    },
+    {
+      "id": "2",
+      "title": "Nettoyer la maison",
+      "description": "Passer l'aspirateur et nettoyer la salle de bain.",
+      "status": "En cours"
+    },
+    {
+      "id": "3",
+      "title": "Répondre aux emails",
+      "description": "Répondre aux emails professionnels et personnels.",
+      "status": "En cours"
+    },
+    {
+      "id": "4",
+      "title": "Faire du sport",
+      "description": "Aller courir pendant 30 minutes.",
+      "status": "Terminé"
+    },
+    {
+      "id": "5",
+      "title": "Lire un livre",
+      "description": "Lire 50 pages du livre en cours.",
+      "status": "En cours"
+    },
+    {
+      "id": "6",
+      "title": "Cuisiner le dîner",
+      "description": "Préparer un repas sain pour la famille.",
+      "status": "En cours"
+    },
+    {
+      "id": "7",
+      "title": "Jardinage",
+      "description": "Arroser les plantes et enlever les mauvaises herbes.",
+      "status": "En cours"
+    },
+    {
+      "id": "8",
+      "title": "Faire la lessive",
+      "description": "Laver, sécher et plier le linge.",
+      "status": "Terminé"
+    },
+    {
+      "id": "9",
+      "title": "Appeler un ami",
+      "description": "Prendre des nouvelles d'un ami proche.",
+      "status": "En cours"
+    },
+    {
+      "id": "10",
+      "title": "Planifier la semaine",
+      "description": "Organiser les tâches et les rendez-vous de la semaine.",
+      "status": "En cours"
+    }
+  ]
+}
